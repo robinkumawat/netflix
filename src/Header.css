@@ -1,0 +1,46 @@
+*
+{
+    margin: 0%; 
+}
+header
+{
+    height: 85px;
+    width: auto;
+    background-color: #000000;
+    color: rgb(255, 0, 0);
+}
+.main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.logo img 
+{
+    
+        
+        height: 83px;
+        width: 247px;
+}
+ .option button {
+    margin: 18px;
+    color: white;
+    background-color: red;
+}
+.all select {
+    margin-top: 30px;
+    height: 30px;
+    width: 42px;
+    border-radius: 7px;
+}
+.option input {
+    height: 30px;
+    width: 225px;
+    border-radius: 5px;
+}
+button.serch {
+    margin: 15px 10px 15px 0px;
+}
+input {
+    height: 35px;
+    width: 190px;  
+}
